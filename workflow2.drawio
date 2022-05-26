@@ -1,38 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T16:31:49.318Z" agent="5.0 (Windows)" etag="k7DPkUcXB13a1jmBv7Hu" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T16:35:32.571Z" agent="5.0 (Windows)" etag="g-_tfsUhSbhyNhq_Ey2T" version="18.0.1" type="github">
   <diagram id="IJWJZodYvj2-Qe8vDpQ_" name="Page-1">
     <mxGraphModel dx="782" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FEHdI437CmvOSNe6sZrf-2" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="180" y="150" width="80" height="80" as="geometry" />
+          <mxGeometry x="180" y="224" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FEHdI437CmvOSNe6sZrf-4" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="469" y="150" width="80" height="80" as="geometry" />
+          <mxGeometry x="469" y="224" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FEHdI437CmvOSNe6sZrf-6" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_Green_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="339" y="150" width="80" height="80" as="geometry" />
+          <mxGeometry x="339" y="224" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FEHdI437CmvOSNe6sZrf-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=60;" vertex="1" parent="1">
-          <mxGeometry x="175" y="319.76" width="230" height="30" as="geometry" />
+          <mxGeometry x="413" y="527.32" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FEHdI437CmvOSNe6sZrf-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="278.5" y="320.5" width="201" height="30" as="geometry" />
+          <mxGeometry x="319.25" y="361.25" width="119.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FEHdI437CmvOSNe6sZrf-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-245;" vertex="1" parent="1">
-          <mxGeometry x="369.42" y="329.15" width="209.09" height="30" as="geometry" />
+          <mxGeometry x="389.8" y="361.13" width="138.51" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FEHdI437CmvOSNe6sZrf-13" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;实例&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FEHdI437CmvOSNe6sZrf-13" value="&lt;div&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;负载均衡器&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FEHdI437CmvOSNe6sZrf-16" value="&lt;b&gt;&lt;font color=&quot;#6600CC&quot;&gt;租户1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="150" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="150" y="304" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FEHdI437CmvOSNe6sZrf-17" value="&lt;b&gt;&lt;font color=&quot;#6600CC&quot;&gt;租户2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="297" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="297" y="304" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FEHdI437CmvOSNe6sZrf-18" value="&lt;b&gt;&lt;font color=&quot;#6600CC&quot;&gt;租户3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="443" y="233" width="70" height="30" as="geometry" />
+          <mxGeometry x="500" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FEHdI437CmvOSNe6sZrf-21" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;实例2&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="584.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEHdI437CmvOSNe6sZrf-22" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;实例1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEHdI437CmvOSNe6sZrf-23" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;实例3&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEHdI437CmvOSNe6sZrf-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=60;" vertex="1" parent="1">
+          <mxGeometry x="216.44" y="356.67" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FEHdI437CmvOSNe6sZrf-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="526.5" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FEHdI437CmvOSNe6sZrf-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-225;" vertex="1" parent="1">
+          <mxGeometry x="222.96" y="527.3199999999999" width="116.04" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
